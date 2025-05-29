@@ -12,7 +12,7 @@ O objetivo desse desafio técnico é fazer uma requisição a uma API pública g
 * Insomnia
 
 ## Instruções para execução local
-### A API pública escolhida foi: <a href="https://newsapi.org/">NewsAPI</a>
+### A API pública escolhida foi: <a href="https://newsapi.org/" target="_blank">NewsAPI</a>
 1º Instale o <a href="https://www.php.net/">PHP</a> de acordo com seu sistema operacional e a versão descrita acima
 <br>
 2º Instale o <a href="https://git-scm.com/">Git</a> de acordo com seu sistema operacional e a versão descrita acima
